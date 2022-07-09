@@ -13,12 +13,12 @@ The results of the analysis show visually appleaing maps that the user can chang
 
 ![Screen Shot 2022-07-09 at 4 10 52 PM](https://user-images.githubusercontent.com/99676466/178124430-53629612-a52f-46c6-97f9-0717d31373ea.png)
 
-The next map style selection is the satellite view. The legend is color coded to show different sizes of earthquakes and there are popups when an earthquake is clicked: 
+The next map style selection is the satellite view. The legend is color coded to show different sizes of earthquakes and there are popups when an earthquake is clicked revealing the location and magnitude: 
 
 ![Screen Shot 2022-07-09 at 4 25 11 PM](https://user-images.githubusercontent.com/99676466/178124506-77a4eded-fd26-437a-a02e-2295ae11a868.png)
 
 
-And the third style is the dark view. There were not very many major earthquakes in the last 7 days so that particular layer is not that interesting. 
+And the third style is the dark view. There were not very many major earthquakes in the last 7 days so that particular layer is not that interesting. When a user hovers over the layers in the upper right corner they are able to make their selections.
 
 ![Screen Shot 2022-07-09 at 4 11 09 PM](https://user-images.githubusercontent.com/99676466/178124465-880b29bf-0437-4c02-bce3-a143596a76bc.png)
 
