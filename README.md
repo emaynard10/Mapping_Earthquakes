@@ -25,5 +25,6 @@ And the third style is the dark view. There were not very many major earthquakes
 ### Tools: 
 Javascript, D3, Leaflet, GeoJSON, Mapbox Api, HTML/css, VS Code
 
-
+### Contact
+[Contact Emily](mailto:emaynard10@gmailcom)
 
